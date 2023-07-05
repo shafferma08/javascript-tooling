@@ -20,3 +20,7 @@
 **Task Runners:**
 1. [Grunt Documentation](https://gruntjs.com/getting-started)
 2. [Gulp Documentation](https://gulpjs.com/docs/en/getting-started/quick-start)
+
+**Videos:**
+1. [What is NPM, and why do we need it? | Tutorial for beginners](https://youtu.be/P3aKRdUyr0s)
+2. [Node.js Ultimate Beginner’s Guide in 7 Easy Steps](https://www.youtube.com/watch?v=ENrzD9HAZK4)
