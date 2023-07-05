@@ -1,8 +1,7 @@
 **Build Tools and Compilers:**
 1. [Webpack Documentation](https://webpack.js.org/concepts/)
 2. [Rollup Guide](https://rollupjs.org/guide/en/)
-3. [Parcel Documentation](https://parceljs.org/getting_started.html)
-4. [Vite Documentation](https://vitejs.dev/guide/)
+3. [Vite Documentation](https://vitejs.dev/guide/)
 
 **Package Managers:**
 1. [npm Documentation](https://docs.npmjs.com/)
