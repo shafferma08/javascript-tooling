@@ -60,4 +60,4 @@ The choice of tools can vary based on the requirements of the project. The above
 
 **Mocha/Jasmine/Vitest/Cypress**: After learning Jest, these frameworks provide more advanced testing techniques. Mocha and Jasmine are popular for both frontend and backend JavaScript testing. Vitest is a Vite-powered test runner useful for Vite projects, and Cypress is excellent for end-to-end testing.
 
-**Grunt/Gulp**: Task runners like Grunt or Gulp can automate repetitive tasks like minification, compilation, linting, and more. These tools are used in larger, more complex projects and can be introduced once students are comfortable with the basics of JavaScript tooling.
+**Grunt/Gulp**: Task runners like Grunt or Gulp can automate repetitive tasks like minification, compilation, linting, and more. These tools are used in larger, more complex projects and can be introduced once you are comfortable with the basics of JavaScript tooling.
